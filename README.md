@@ -6,4 +6,5 @@ Proyecto para la materia de Introducción a la IA para ciencias e ingenierías
 - Estaban Alzate Perez CC: 71292179. Carrera: Ingeniería Mecánica. 
 # video de segunda entrega del proyecto
 - https://www.youtube.com/watch?v=9ViSlyyjUkc
+# video de Tercera entrega del proyecto
 - https://youtu.be/HA0PL1AwWqA
